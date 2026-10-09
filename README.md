@@ -37,12 +37,12 @@ Leading a category isn't permanent. Brands that held the top spots in 2019 were 
 
 ## Explore the Full Analysis
 
-- **[Interactive Tableau Dashboard →](YOUR_TABLEAU_LINK_HERE)**: start on the Summary tab for the quick take
+- **[Interactive Tableau Dashboard →](https://public.tableau.com/app/profile/hazeezat.adebimpe.adebayo/viz/SephoraSkincareBrandShift/Summary)**: start on the Summary tab for the quick take
 - **[Python Notebook →](Sephora_Skincare_Brand_Shift.ipynb)**: duplicate removal, calculations and exports
 
 ## About the Data
 
-Source: the Sephora Products and Skincare Reviews dataset on Kaggle ([add link]). Reviews run from 2008 to March 2023. This analysis covers 2018 to 2022, the years with enough reviews and a complete calendar year. "Top brand" means most reviews in that year. The raw Kaggle files are too large for GitHub and are not included.
+Source: the Sephora Products and Skincare Reviews dataset on Kaggle (https://www.kaggle.com/code/aashidutt3/sentiment-analysis-sephora-reviews/input). Reviews run from 2008 to March 2023. This analysis covers 2018 to 2022, the years with enough reviews and a complete calendar year. "Top brand" means most reviews in that year. The raw Kaggle files are too large for GitHub and are not included.
 
 ## Repository Contents
 

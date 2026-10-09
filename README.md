@@ -15,11 +15,11 @@ Who leads a category, and does it last? I looked at which skincare brands receiv
 
 **Then it loosened quickly.** The top five's share fell to 26.0% in 2020 and 18.2% in 2021, then held at 18.0% in 2022. The biggest brand in 2022, Glow Recipe, held 4.1%.
 
-![Top-five share of reviews](images/sephora_top5_share.png)
+![Top-five share of reviews](sephora_top5_share.png)
 
 **The leaders changed.** None of the 2019 top five were in the 2022 top five. Drunk Elephant went from first to 19th (12,558 reviews to 3,065), and Tatcha from third to 20th. Glow Recipe rose from 19th to first, Shiseido from 34th to fourth, and Dermalogica from 27th to fifth. Only three of the 2019 top ten (The Ordinary, fresh and LANEIGE) were still in the 2022 top ten, all ranked lower.
 
-![Leaders in 2019 vs 2022](images/sephora_leaders.png)
+![Leaders in 2019 vs 2022](sephora_leaders.png)
 
 **The field got more crowded.** 50 brands had at least 1,000 reviews in 2022, up from 38 in 2019, and 134 brands received at least one review, up from 86.
 
@@ -48,7 +48,7 @@ Source: the Sephora Products and Skincare Reviews dataset on Kaggle ([add link])
 
 - `Sephora_Skincare_Brand_Shift.ipynb`: the full analysis
 - `skincare_concentration.csv` and `skincare_brands_by_year.csv`: the summary tables behind the dashboard
-- `images/`: dashboard screenshots used in this README
+
 
 ## Tools
 

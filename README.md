@@ -1,6 +1,7 @@
 # Skincare at Sephora: From a Few Giants to a Crowded Field
 
-![Summary](images/sephora_summary.png)
+![Summary](sephora_summary.png)
+
 
 **How the brands that dominate Sephora skincare reviews changed between 2019 and 2022, based on about 745,000 customer reviews from 2018 to 2022.**
 
